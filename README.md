@@ -36,19 +36,52 @@
 
 ## `>` whoami
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 ```ts
-const abdullah = {
-  role:        "Full-Stack Engineer · DevOps · AI Specialist",
-  education:   "Computer Engineering @ COMSATS University Islamabad",
+const abdullah: Engineer = {
+  alias:       "@AbdullahYaseen01",
+  title:       "Full-Stack · DevOps · AI Specialist",
+  education:   "BS Computer Engineering, COMSATS",
   company:     "Autozy",
-  focus:       ["Scalable Web Apps", "CI/CD Pipelines", "ML Systems"],
-  currently:   "Shipping production-grade software that just works",
-  philosophy:  "Clean code. Clean infra. Clean interfaces.",
-  sideQuests:  ["Stock Trading 📈", "YouTube Automation 🎬", "System Design"],
+
+  stack: {
+    frontend:  ["React", "Next.js", "TypeScript"],
+    backend:   ["FastAPI", "Node.js", "Python"],
+    cloud:     ["AWS", "Azure", "Kubernetes"],
+    ai:        ["TensorFlow", "PyTorch"],
+  },
+
+  currentlyBuilding: "Production systems that just work",
+  philosophy:        "Clean code. Clean infra. Clean UX.",
+  openTo:            ["Full-time", "Contract", "Collab"],
 };
 ```
 
-I build products end-to-end — from **pixel-perfect React interfaces** to **Kubernetes clusters humming in production** to **ML pipelines that actually ship**. The rare kind of engineer who can close the loop from idea to deployment without waiting on anyone.
+</td>
+<td width="35%" valign="top">
+
+<br/>
+
+### 🎯 Focus
+Full-stack SaaS · AI tooling · Cloud-native
+
+### ⚙️ Workflow
+Ship fast · Iterate hard · Own outcomes
+
+### 🧭 Currently
+Leveling up in system design & ML infra
+
+### 🚀 Side quests
+Markets 📈 · Content 🎬 · Automation 🤖
+
+</td>
+</tr>
+</table>
+
+> I build products **end-to-end** — from pixel-perfect React interfaces, to Kubernetes clusters humming in production, to ML pipelines that actually ship. The rare kind of engineer who closes the loop from **idea to deployment** without waiting on anyone.
 
 ---
 
@@ -127,11 +160,34 @@ I build products end-to-end — from **pixel-perfect React interfaces** to **Kub
 
 ---
 
-## `>` trophy wall
+## `>` what I bring
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=AbdullahYaseen01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-FULL--STACK-00D9FF?style=for-the-badge&labelColor=0D1117" /><br/>
+      <sub><b>End-to-end ownership</b></sub><br/>
+      <sub>Frontend → Backend → Deploy</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-DEVOPS-7C3AED?style=for-the-badge&labelColor=0D1117" /><br/>
+      <sub><b>Production-grade infra</b></sub><br/>
+      <sub>Docker · K8s · CI/CD</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-AI_%2F_ML-F59E0B?style=for-the-badge&labelColor=0D1117" /><br/>
+      <sub><b>Applied intelligence</b></sub><br/>
+      <sub>TensorFlow · PyTorch</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-CLOUD-00C853?style=for-the-badge&labelColor=0D1117" /><br/>
+      <sub><b>Multi-cloud fluent</b></sub><br/>
+      <sub>AWS · Azure · Vercel</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
